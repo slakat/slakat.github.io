@@ -8,8 +8,6 @@ For more info and more free Bootstrap 3 HTML themes, visit http://startbootstrap
 
 /* Global Styles */
 
-html, body {
-}
 
 body {
 
@@ -18,12 +16,13 @@ body {
     font-family: "oswald", "sans-serif";
 }
 
-body h1{
+h1{
   font-size: 200px;
   text-align: center;
   vertical-align: middle;
   color: azure;
   line-height 200px;
+  text-shadow: 0.02em 0.02em 0 rgb(18, 32, 27), 0.03em 0.03em 3px rgb(36, 124, 95);
 }
 
 
