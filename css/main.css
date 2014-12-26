@@ -16,8 +16,14 @@ body {
     padding-top: 50px;
     padding-bottom: 20px;
     background: #FB5D52;
-    color: #2AB9B4;
+    /*color: #2AB9B4;*/
+    color: #fff;
     font-family: "oswald";
+}
+
+h1{
+  text-align: center;
+  font-size: 55px;
 }
 
 
